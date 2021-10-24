@@ -1,5 +1,5 @@
 # collatz-conjecture
-Simple "Collatz Conjecture" script. (Will probably add multiple languages later on, for now Julia)
+Simple "Collatz Conjecture" scripts.
 
 ## What is the Collatz Conjecture?
 It's a mathematical problem that has not been solved yet.

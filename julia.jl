@@ -1,8 +1,8 @@
 print("Enter a positive number: ")
 n = parse(BigInt, readline())
 
-if signbit(n)
-    print("Negative numbers are not allowed.")
+if signbit(n) || n == 0
+    print("Negative numbers and nul are not allowed.")
 else
     s = 0
     while n != 1
